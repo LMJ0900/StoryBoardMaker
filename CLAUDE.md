@@ -2,6 +2,7 @@
 
 이 저장소에서 작업할 때 아래 규칙을 항상 따른다.
 
+- 브랜치 워크플로우: [docs/rules/branch-workflow.md](docs/rules/branch-workflow.md)
 - 커밋 컨벤션: [docs/rules/commit-convention.md](docs/rules/commit-convention.md)
 - 리퀘스트 완료 후 노션 문서화: [docs/rules/notion-request-log.md](docs/rules/notion-request-log.md)
 
