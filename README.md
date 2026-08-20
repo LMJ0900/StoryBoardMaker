@@ -4,6 +4,12 @@
 
 기획 배경과 전체 로드맵은 [storyboard_service_plan.md](./storyboard_service_plan.md) 참고.
 
+## 프로젝트 규칙
+
+- 브랜치 워크플로우: [docs/rules/branch-workflow.md](docs/rules/branch-workflow.md)
+- 커밋 컨벤션: [docs/rules/commit-convention.md](docs/rules/commit-convention.md)
+- 리퀘스트 완료 후 노션 문서화: [docs/rules/notion-request-log.md](docs/rules/notion-request-log.md)
+
 ## 프로젝트 구조
 
 ```
