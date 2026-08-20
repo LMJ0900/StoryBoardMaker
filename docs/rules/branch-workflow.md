@@ -23,6 +23,10 @@
 
 예: `feature/initial-project-setup`, `docs/add-project-rules`
 
+## 예외: README 전용 브랜치
+
+`README.md` 수정은 매번 새 브랜치를 만들지 않고, 항상 `docs/readme-updates` 브랜치 하나에 커밋해서 PR을 보낸다. README 변경 건이 생길 때마다 이 브랜치를 다시 checkout해서 이어서 작업한다.
+
 ## 참고
 
 리퀘스트(요청) 완료 후 노션 문서화는 [notion-request-log.md](./notion-request-log.md) 참고.
